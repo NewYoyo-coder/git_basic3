@@ -4,3 +4,4 @@
 2. Movies
 3. Reading
 4. Working out
+5. Hot chocolate
